@@ -1,0 +1,28 @@
+/**
+ * @author    Loris Pinna <https://lorispinna.com>
+ * @copyright Loris Pinna
+ * @license   Commercial
+ */
+#fqpf-app .fqpf-mt5 { margin-top: 5px; }
+#fqpf-app .fqpf-mt0 { margin-top: 2px; margin-bottom: 0; }
+#fqpf-app .fqpf-filters > div { margin-bottom: 10px; }
+#fqpf-app .fqpf-badge-sel { margin-left: 8px; background: #25b9d7; }
+#fqpf-app .fqpf-paste { margin: 5px 0 12px; }
+#fqpf-app .fqpf-paste textarea { margin-top: 6px; font-family: monospace; }
+#fqpf-app .fqpf-paste-actions { margin-top: 6px; }
+#fqpf-app .fqpf-paste-actions .btn { margin-left: 6px; }
+#fqpf-app .fqpf-toolbar { margin-bottom: 8px; }
+#fqpf-app .fqpf-toolbar .btn { margin: 0 4px 4px 0; }
+#fqpf-app .fqpf-toolbar select { width: auto; display: inline-block; }
+#fqpf-app .fqpf-table td { vertical-align: middle; }
+#fqpf-app .fqpf-table tbody tr { cursor: pointer; }
+#fqpf-app .fqpf-table tr.fqpf-row-selected td { background: #e8f6fb; }
+#fqpf-app .fqpf-col-check { width: 30px; }
+#fqpf-app .fqpf-col-img { width: 50px; }
+#fqpf-app .fqpf-col-img img { max-width: 45px; max-height: 45px; }
+#fqpf-app #fqpf-tbody.fqpf-loading { opacity: .5; }
+#fqpf-app .fqpf-page-input { width: 70px; display: inline-block; }
+#fqpf-app .fqpf-action { margin: 0 6px 6px 0; }
+#fqpf-app .fqpf-log-line { margin-bottom: 6px; padding: 8px 12px; }
+#fqpf-app #fqpf-progress-wrap { margin-top: 10px; }
+#fqpf-app #fqpf-progress { min-width: 4em; }
